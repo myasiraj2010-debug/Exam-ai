@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.question {
+  background: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
